@@ -7,7 +7,7 @@ Converted an old laptop into a home file sharing server using Ubuntu. The server
 | Component                     | Details                                                                                                                             |
 |-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | Laptop Model                  | Lenovo Ideapad                                                                                                                      |
-| CPU & RAM                     | Intel(R) Core(TM) i3-8130U CPU                                                                                                      |
+| CPU & RAM                     | Intel(R) Core(TM) i3-8130U CPU, 4GB RAM                                                                                             |
 | Storage                       | 915GB HDD                                                                                                                           |
 | OS                            | Ubuntu 24.04.2 LTS                                                                                                                  |
 | Power Setup                   | This server requires manual power-on by pressing the power button. Laptop is constantly plugged in to avoid accidental power loss.  |
